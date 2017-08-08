@@ -1,0 +1,12 @@
+@import '~antd/dist/antd.css';
+
+.normal {
+    display: flex;
+}
+.checkbox {
+    margin-right: 6px;
+}
+.isComplete {
+    color: #ccc;
+    text-decoration: line-through;
+}
